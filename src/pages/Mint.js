@@ -40,7 +40,7 @@ export const Mint = () => {
                         </ul>
                         <div class="input-group1 mb-5">
 
-                            <form style={{ display: "flex" }} action="https://public.herotofu.com/v1/6de03c70-a232-11ed-a31e-753411848f80" method="post">
+                            <form style={{ display: "flex" }} action="https://public.herotofu.com/v1/pk_1295d15349e25a443cda61044ac367ac" method="post">
                                 
 
                                     <input class="form-control" placeholder="Submit Your Address to get whitelisted now." name="Name" id="name" type="text" required />
@@ -59,9 +59,9 @@ export const Mint = () => {
 
 
 
-                        <div class="header-btn padding-bottom">
+                        <div  class="header-btn padding-bottom2">
                                 <h3 class="color--secondary-color">Don''t have a Wallet? No worries. </h3>
-                            <a class="default-bt1" >
+                            <a style={{ marginTop: "30px" }} class="default-bt1" >
                                 <WalletMultiButton >Download Now</WalletMultiButton >
                             </a>
                             </div>

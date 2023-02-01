@@ -38,12 +38,7 @@ export const Footer = () => {
                                     <a href="https://discord.gg/fas3m4VFA2" target="_blank" class="social__link"><i class="fab fa-discord"></i></a>
                                 </li>
                                
-                                <li class="social__item">
-                                    <a href="#" target="_blank" class="social__link"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li class="social__item">
-                                    <a href="#" target="_blank" class="social__link"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
+
                                
                             </ul>
                         </div>

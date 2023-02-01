@@ -35,6 +35,7 @@ module.exports = function (config, env) {
                 crypto: require.resolve('crypto-browserify'),
             },
         },
+
         ignoreWarnings: [/Failed to parse source map/],
     };
 };

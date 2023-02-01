@@ -18,16 +18,17 @@ import React, { FC, ReactNode, useMemo } from 'react';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 
-import { Navbar } from "./comp/Navbar"
+import  Navbar  from "./comp/Navbar2"
 import { Footer } from "./comp/Footer"
 
 //pages
 import { Home } from "./pages/Homepage"
 import { Mint } from "./pages/Mint"
-import { Blog } from "./pages/Blog"
+import { Whitelist } from "./pages/Whitelist"
 import { Career } from "./pages/Career"
 import { PageNotFound } from "./pages/PageNotFound"
-import  Test  from "./pages/Test"
+import Test from "./pages/Test"
+
 
 require('./App.css');
 
@@ -45,7 +46,7 @@ const App: FC = () => {
                     <Route path="/" element={<Home />} />
                     <Route path="/mint" element={<Mint />} />
                     <Route path="/career" element={<Career />} />
-                    <Route path="/blogs" element={<Blog />} />
+                    <Route path="/whitelist" element={<Whitelist />} />
                     <Route path="/test" element={<Test />} />
                     <Route path="*" element={<PageNotFound />} />
 

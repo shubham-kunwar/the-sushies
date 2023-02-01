@@ -791,8 +791,34 @@ a {
   }
 }
 
-.padding-bottom {
-  padding-bottom: 70px;
+    .modal{
+    z-index: 1000;
+    position: relative;
+    background: white;
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0 30px rgba($black, 0.2);
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 40px 60px 0;
+    overflow: hidden;
+    transform-style: preserve-3d;
+    
+ 
+   
+
+
+
+}
+        .modal:hover {
+            animation: flip 3s ease;
+        }
+        .padding-bottom {
+            padding-bottom: 70px;
+        }
+.trophy {
+    
+    margin: 0 auto 40px;
 }
 .padding-bottom2{
     padding-bottom: 40px;

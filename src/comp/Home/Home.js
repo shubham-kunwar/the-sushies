@@ -101,7 +101,7 @@ export const Hero = () => {
             </section>
 
 
-            <section class="counter counter--uplifted padding-top">
+            <section class="counter counter--uplifted padding-top padding-bottom2">
                 <div class="container">
                     <div class="counter__wrapper">
                         <div class="row g-1">
