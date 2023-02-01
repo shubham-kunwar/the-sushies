@@ -33,16 +33,10 @@ export const Team = () => {
                                         <li>
                                             <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
+                                       
+                                       
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link">
-                                                <i class="fa-brands fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
+                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -87,16 +81,10 @@ export const Team = () => {
                                         <li>
                                             <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
+                                       
+                                      
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link">
-                                                <i class="fa-brands fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
+                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -146,16 +134,9 @@ export const Team = () => {
                                         <li>
                                             <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
+                                      
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link">
-                                                <i class="fa-brands fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
+                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -200,16 +181,10 @@ export const Team = () => {
                                         <li>
                                             <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
+                                        
+                                      
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-facebook-f"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link">
-                                                <i class="fa-brands fa-linkedin-in"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-instagram"></i></a>
+                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>

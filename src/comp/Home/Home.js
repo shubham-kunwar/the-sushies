@@ -84,26 +84,10 @@ export const Hero = () => {
 
 
                                             </section>
-                                            <a class="banner__video" href="https://www.youtube.com/embed/BKkc2v8echI"
-                                                data-rel="lightcase">
-                                                <div class="banner__video-inner">
-                                                    <svg viewBox="0 0 100 100">
-                                                        <defs>
-                                                            <path id="circle" d="
-                                            M 50, 50
-                                            m -37, 0
-                                            a 37,37 0 1,1 74,0
-                                            a 37,37 0 1,1 -74,0" />
-                                                        </defs>
-                                                        <text>
-                                                            <textPath xlinkHref="#circle">
-                                                                    **** To the moon ******** Mint Soon ****
-                                                            </textPath>
-                                                        </text>
-                                                    </svg>
-                                                    <span><i class="fa-solid fa-play"></i></span>
-                                                </div>
-                                            </a>
+                                           
+                                             
+                                               
+                                            
 
                                         </section>
                                     </div>
@@ -234,10 +218,10 @@ export const Hero = () => {
                                                         </div>
                             <div class="col-lg-6">
                                 <div class="about__content" data-aos="fade-up" data-aos-duration="2000">
-                                    <h4 class="subtitle">
-                                        The story of The Suhies:
-                                    </h4>
-                                    <h2>Since 1891</h2>
+                                    <h3 class="subtitle">
+                                        The story of The Sushies:
+                                    </h3>
+                                   
                                     <p>
                                         One often heard of a <strong>Japanese chef </strong> who had honed his cooking skills to such an extent that he created sushi morsels that were as divine as you know.
                                     </p><p>

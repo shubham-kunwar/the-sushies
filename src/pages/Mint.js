@@ -62,7 +62,7 @@ export const Mint = () => {
                         <div class="header-btn padding-bottom">
                                 <h3 class="color--secondary-color">Don''t have a Wallet? No worries. </h3>
                             <a class="default-bt1" >
-                                <WalletMultiButton />
+                                <WalletMultiButton >Download Now</WalletMultiButton >
                             </a>
                             </div>
 

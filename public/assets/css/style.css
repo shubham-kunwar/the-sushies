@@ -3010,7 +3010,7 @@ ol {
   .roadmap__wrapper:after {
     position: absolute;
     content: "";
-    height: 50%;
+    height: 25%;
     width: 10px;
     background-color: #00ffa3;
     top: 0;
