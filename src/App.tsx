@@ -26,6 +26,7 @@ import { Home } from "./pages/Homepage"
 import { Mint } from "./pages/Mint"
 import { Blog } from "./pages/Blog"
 import { Career } from "./pages/Career"
+import { PageNotFound } from "./pages/PageNotFound"
 
 require('./App.css');
 
@@ -42,6 +43,8 @@ const App: FC = () => {
                     <Route path="/" element={<Home />} />
                     <Route path="/mint" element={<Mint />} />
                     <Route path="/career" element={<Career />} />
+                    <Route path="/blogs" element={<Blog />} />
+                    <Route path="*" element={<PageNotFound />} />
 
                 </Routes>
 

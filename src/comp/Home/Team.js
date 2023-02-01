@@ -23,14 +23,11 @@ export const Team = () => {
                                 </div>
                                 <div class="team__item-content">
                                     <div class="team__item-author">
-                                        <h4>Krasher | The Sushies</h4>
+                                        <h4>Krasher | The Sushie</h4>
                                         <p>Founder</p>
                                     </div>
                                     <p>
-                                        Contrar info popular belief is not simp
-                                        has roots info piece arei classica from
-                                        looked upone info the more obsc latin
-                                        cites of the word in
+                                      
                                     </p>
                                     <ul class="social">
                                         <li>
@@ -80,14 +77,11 @@ export const Team = () => {
                                 </div>
                                 <div class="team__item-content">
                                     <div class="team__item-author">
-                                        <h4>Kaylee | The Sushies</h4>
+                                        <h4>Kaylee | The Sushie</h4>
                                         <p>Marketer</p>
                                     </div>
                                     <p>
-                                        Contrar info popular belief is not simp
-                                        has roots info piece arei classica from
-                                        looked upone info the more obsc latin
-                                        cites of the word in
+                                     
                                     </p>
                                     <ul class="social">
                                         <li>
@@ -139,17 +133,14 @@ export const Team = () => {
                                 <div class="team__item-content">
                                     <div class="team__item-author">
                                         <h4>
-                                            Momo | The Sushies
+                                            Momo | The Sushie
                                         </h4>
                                         <p>
                                             Lead Developer
                                         </p>
                                     </div>
                                     <p>
-                                        Contrar info popular belief is not simp
-                                        has roots info piece arei classica from
-                                        looked upone info the more obsc latin
-                                        cites of the word in
+                                      
                                     </p>
                                     <ul class="social">
                                         <li>
@@ -199,14 +190,11 @@ export const Team = () => {
                                 </div>
                                 <div class="team__item-content">
                                     <div class="team__item-author">
-                                        <h4> MetaGuy | The Sushies</h4>
-                                        <p>Advisor</p>
+                                        <h4> CLS | The Sushie</h4>
+                                        <p>Artist</p>
                                     </div>
                                     <p>
-                                        Contrar info popular belief is not simp
-                                        has roots info piece arei classica from
-                                        looked upone info the more obsc latin
-                                        cites of the word in
+                                      
                                     </p>
                                     <ul class="social">
                                         <li>

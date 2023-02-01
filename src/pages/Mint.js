@@ -59,7 +59,7 @@ export const Mint = () => {
                 </div>
 
 
-                            <div class="header-btn padding-bottom">
+                        <div class="header-btn ">
                                 <h3 class="color--secondary-color">Don''t have a Wallet? No worries. </h3>
                             <a class="default-btn" >
                                 <ConnectButton >Download Now<i class="fa-solid fa-wallet"></i>
@@ -69,24 +69,9 @@ export const Mint = () => {
 
 
 
-                            <ul class="social justify-content-center">
-                                <li class="social__item">
-                                    <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li class="social__item">
-                                    <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                </li>
-                                <li class="social__item">
-                                    <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                </li>
-                                <li class="social__item">
-                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                </li>
-                            </ul>
+                           
                         </div>
-                        <div class="coming-soon__thumb">
-                            <a href="index.html"><img src="assets/images/coming-soon/01.jpg" alt="NFT Image"/> </a>
-            </div>
+                    
                         </div>
 
     </section>

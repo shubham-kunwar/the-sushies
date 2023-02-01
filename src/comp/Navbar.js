@@ -20,6 +20,10 @@ const ConnectButton = styled(WalletMultiButton)`
     text-transform: uppercase;
     font-weight: 400;
 height:56px;
+ &:hover {
+    background-color: #00ffa3;
+background: #00ffa3;
+  }
 }
 `;
 
@@ -29,7 +33,7 @@ export const Navbar = () => {
     return (
         <>
             <div class="preloader">
-                <img src="assets/images/logo/preloader.png" alt="Apes land"/>
+                <img src="assets/images/logo/2.png" alt="Apes land"/>
             </div>
 
             <header class="header-section">

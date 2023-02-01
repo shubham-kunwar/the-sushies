@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
         <>
             
-            <section class="community padding-top padding-bottom" style={{ backgroundImage: `url(/assets/images/community/bg.jpg)` }} >
+            <section class="community padding-top padding-bottom"  >
                 <div class="container">
                     <div class="comminity__wrapper">
                         <div class="section-header text-center">
@@ -52,7 +52,7 @@ export const Footer = () => {
                 <div class="footer__copyright">
                     <div class="container">
                         <div class="text-center py-4">
-                            <p class=" mb-0">© 2023 | All Rights Reserved </p>
+                            <p class=" mb-0">Â© 2023 | All Rights Reserved </p>
                         </div>
                     </div>
                 </div>

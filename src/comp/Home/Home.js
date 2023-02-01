@@ -286,7 +286,7 @@ export const Hero = () => {
             </section>
             </div>
 
-            <section class="roadmap roadmap--style2 " id="roadmap" style={{ backgroundImage: `url(/assets/images/banner/bg.png)` }}
+            <section class="roadmap roadmap--style2 padding-bottom" id="roadmap" style={{ backgroundImage: `url(/assets/images/banner/bg.png)` }}
                >
                 <div class="container">
                     <div class="section-header text-center">
@@ -405,7 +405,7 @@ export const Hero = () => {
                                                 1.  Pre_sale for WL Users.
                                             </p>
                                             <p>
-                                                2. Introduce $SUSH ,our Utility Token.
+                                                2. Introduce $SUSHI ,our Utility Token.
                                             </p>
                                             <p>
                                                 3.  Launching Staking Dashboard of NFT's.
@@ -447,13 +447,13 @@ export const Hero = () => {
                                                 1. Providing Weekly Free Food to Holders
                                             </p>
                                             <p>
-                                                2. Opening of Shoping website to shop via earned $SUSH.
+                                                2. Opening of Shoping website to shop via earned $SUSHI.
                                             </p>
                                             <p>
-                                                3.  Start ICO sale of $SUSH.
+                                                3.  Start ICO sale of $SUSHI.
                                             </p>
                                             <p>
-                                                4. Buying/Selling $SUSH on exchanges.
+                                                4. Buying/Selling $SUSHI on exchanges.
                                             </p>
                                         </div>
 
@@ -526,7 +526,7 @@ export const Hero = () => {
                                             <p>1. Launching Own Nft Marketplace..</p>
                                             <p>2. Launching our p2e game for the world.</p>
                                             <p>3. Airdrop of profits from p2e to The Sushie Holders.</p>
-                                            <p>4. </p>
+                                            <p> </p>
                                         </div>
                                     </div>
                                     <span class="svg-shape"><svg xmlns="http://www.w3.org/2000/svg"

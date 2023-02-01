@@ -23,7 +23,7 @@ export const Faq = () => {
                                                     <button class="accordion__button collapsed" type="button"
                                                         data-bs-toggle="collapse" data-bs-target="#faqBody1"
                                                         aria-expanded="false" aria-controls="faqBody1">
-                                                        What is NFTPort <span class="plus-icon"></span>
+                                                        What is Sushies?<span class="plus-icon"></span>
                                                     </button>
                                                 </div>
                                                 <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1"
