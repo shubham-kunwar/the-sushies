@@ -10,16 +10,13 @@ export const Whitelist = () => {
         <>
 
 
-            <section class="error" style={{ backgroundImage: `url(/assets/images/banner/solana.gif)`, opacity: "0.8", backgroundRepeat:" no-repeat;"}}>
+            <section class="error padding-top" style={{ backgroundImage: `url(/assets/images/banner/bg.png)`, opacity: "0.8", backgroundRepeat:" no-repeat;"}}>
                 <div class="error__inner">
                     <div class="error__content" >
-                        <div style={{ marginLeft: "auto", marginRight: "auto", width: "40%" }}>
-                          
-                        <img class="d-block "  src="assets/images/banner/congo.gif" alt=" image" />
-                        </div>
+                        
                         
 
-                        <div class="text-center " style={{ backgroundColor: "black", padding: "60px", borderRadius:"50px" }}>
+                        <div class="text-center " style={{ backgroundColor: "rgb(7, 19, 36)", padding: "60px", borderRadius:"50px" }}>
                             <h3 class=" mb-3" >Hurrah! Your Wallet is Submitted and you are whitelisted.</h3>
 
                             <h3 style={{ marginBottom: "40px" }} >Join Discord to keep Updated</h3>
