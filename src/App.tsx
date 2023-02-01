@@ -67,9 +67,10 @@ const Context: FC<{ children: ReactNode }> = ({ children }) => {
     const wallets = useMemo(
         () => [
             new PhantomWalletAdapter(),
-           
             new SolflareWalletAdapter({ network }),
-           
+            new SlopeWalletAdapter(),
+            new SolletWalletAdapter({ network }),
+            new SolletExtensionWalletAdapter({ network }),
            
 
         ],

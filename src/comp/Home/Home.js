@@ -1,4 +1,4 @@
-﻿import React, { useEffect } from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
@@ -23,7 +23,7 @@ export const Hero = () => {
                                     <h1>The <span class="color--theme-color">Sushies <br /> NFT</span> Collection</h1>
                                     <p>
                                         1,222  Unique Sushies served with avatars, Starting Minting
-                                        The 12th of March 2022
+                                        The 12th of April 2022
                                     </p>
                                     <div class="btn-group">
                                         <a href="/mint" class="default-btn default-btn--secondary">Mint Soon</a>
@@ -134,7 +134,7 @@ export const Hero = () => {
                                 <div class="counter__item">
                                     <div class="counter__item-content">
                                         <h2 class="color--secondary-color">
-                                            <span class="purecounter" data-purecounter-start="1" data-purecounter-end="12">12</span> March
+                                                <span class="purecounter" data-purecounter-start="1" data-purecounter-end="12">12</span> April
                                         </h2>
                                         <p >
                                             Pre-Sale [0.4sol]</p>
@@ -155,7 +155,7 @@ export const Hero = () => {
                                 <div class="counter__item">
                                     <div class="counter__item-content">
                                         <h2 class="color--secondary-color">
-                                            <span class="purecounter" data-purecounter-start="0" data-purecounter-end="30">30</span> March
+                                                <span class="purecounter" data-purecounter-start="0" data-purecounter-end="30">30</span> April
                                         </h2>
                                         <p>
                                             Public-Sale [0.69sol]
