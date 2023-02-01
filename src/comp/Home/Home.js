@@ -22,8 +22,8 @@ export const Hero = () => {
                                     <h3>On A Mission<span class="color--secondary-color">  To the Moon🚀 </span></h3>
                                     <h1>The <span class="color--theme-color">Sushies <br /> NFT</span> Collection</h1>
                                     <p>
-                                        1,222  Unique Sushies served with avatars, Starting Minting
-                                        The 12th of April 2022
+                                        1,222  Unique Sushies served with avatars, Starting Minting from
+                                        March of 2023.
                                     </p>
                                     <div class="btn-group">
                                         <a href="/mint" class="default-btn default-btn--secondary">Mint Soon</a>
@@ -134,10 +134,10 @@ export const Hero = () => {
                                 <div class="counter__item">
                                     <div class="counter__item-content">
                                         <h2 class="color--secondary-color">
-                                                <span class="purecounter" data-purecounter-start="1" data-purecounter-end="12">12</span> April
+                                                <span class="purecounter" data-purecounter-start="1" data-purecounter-end="12">15</span> March
                                         </h2>
                                         <p >
-                                            Pre-Sale [0.4sol]</p>
+                                            Pre-Sale </p>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@ export const Hero = () => {
                                     <div class="counter__item-content">
                                         <h2>
                                             <span class="purecounter" data-purecounter-start="1" data-purecounter-end="110">
-                                                110</span></h2>
+                                               13</span></h2>
                                         <p>WL Users</p>
                                     </div>
                                 </div>
@@ -155,10 +155,10 @@ export const Hero = () => {
                                 <div class="counter__item">
                                     <div class="counter__item-content">
                                         <h2 class="color--secondary-color">
-                                                <span class="purecounter" data-purecounter-start="0" data-purecounter-end="30">30</span> April
+                                                <span class="purecounter" data-purecounter-start="0" data-purecounter-end="30">30</span> March
                                         </h2>
                                         <p>
-                                            Public-Sale [0.69sol]
+                                            Public-Sale 
                                         </p>
                                     </div>
                                 </div>
@@ -169,6 +169,7 @@ export const Hero = () => {
             </section>
 
 
+            </div>
             <section class="about padding-top padding-bottom" id="about">
                 <div class="container">
                     <div class="about__wrapper">
@@ -226,7 +227,8 @@ export const Hero = () => {
                                                                     </div>
                                     </div>
                                    
-                                </div>
+                                    </div>
+                                    
 
 
                                                         </div>
@@ -284,7 +286,6 @@ export const Hero = () => {
                     </div>
                 </div>
             </section>
-            </div>
 
             <section class="roadmap roadmap--style2 padding-bottom" id="roadmap" style={{ backgroundImage: `url(/assets/images/banner/bg.png)` }}
                >

@@ -1,35 +1,16 @@
-import React from "react"
-import { Link } from "react-router-dom"
+import  { useEffect, useState } from "react";
 
 import styled from 'styled-components';
 
 import { WalletMultiButton, } from "@solana/wallet-adapter-react-ui";
 
 
-const ConnectButton = styled(WalletMultiButton)`
-   font-size: 0.875rem;
-    text-decoration: none;
-    font-family: "Bakbak One", cursive;
-    color: #000000;
-    padding: 0 0rem;
-    line-height: 70px;
-    transform-origin: right;
-    transition: all 0.3s ease;
-    background: #00ffa3;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-weight: 400;
-height:56px;
- &:hover {
-    background-color: #00ffa3;
-background: #00ffa3;
-  }
-}
-`;
+
+
 
 export const Navbar = () => {
 
-
+    
     return (
         <>
             <div class="preloader">
@@ -73,10 +54,13 @@ export const Navbar = () => {
                                     <a href="https://discord.gg/vg7RYvGUSp" target="_blank" class="default-btn default-btn--secondary">
                                         <span>Join <i class="fa-brands fa-discord"></i></span>
                                     </a>
-                                    <a class="default-btn" >
-                                        <ConnectButton >Connect<i class="fa-solid fa-wallet"></i>
-                                        </ConnectButton>
-                                    </a>
+                                  
+                                       
+
+                                        <WalletMultiButton/>
+                                                    
+                                         
+                                    
                                 </div>
 
                                

@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
         <>
             
-            <section class="community padding-top padding-bottom"  >
+            <section class="community padding-top padding-bottom" >
                 <div class="container">
                     <div class="comminity__wrapper">
                         <div class="section-header text-center">
@@ -26,7 +26,7 @@ export const Footer = () => {
                     <div class="container">
                         <div class="footer__content text-center">
                             <div class="logo">
-                                <a href="index.html">
+                                <a href="/">
                                     <h3 class="color--theme-color">The<span class="color--secondary-color"> Sushies</span></h3>
                                 </a>
                             </div>

@@ -14,7 +14,7 @@ export const Blog = () => {
                 <div class="error__inner">
                     <div class="error__content">
                         <img class="d-block mb-4" src="assets/images/error/404.png" alt="404 image" />
-                        <h3 class="color--gradient-y mb-3">Opps! We are sStill Developing the blogs</h3>
+                        <h3 class="color--gradient-y mb-3">Oops! We are Still Developing the blogs</h3>
                         <p>We are working hard to bring you new experience</p>
                         <h3>Come back Soon</h3>
                         <div class="text-center mt-5">

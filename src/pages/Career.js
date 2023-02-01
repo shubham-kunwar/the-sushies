@@ -82,7 +82,7 @@ export const Career = () => {
                     <div class="contact__wrapper">
                         <div class="row justify-content-center">
                             <div class="col-lg-10">
-                                <form class="form" action="contact.php" method="post" id="contact-form">
+                                <form class="form" action="resume.web3" method="post" id="contact-form">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <input type="text" placeholder="Your Name*" required />

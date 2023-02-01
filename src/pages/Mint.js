@@ -27,12 +27,12 @@ export const Mint = () => {
 
 
 
-            <section class="coming-soon">
+            <section class="coming-soon  ">
                 <div class="coming-soon__inner">  
                     <div class="coming-soon__content">
                         <h2 class="color--gradient-y">Mint Will be Live soon ! </h2>
                         <p>We are working hard to bring you new experience of metaverse and NFT utilities</p>
-                        <ul class="countdown" data-date="April  12, 2023 21:00:00" id="countdown">
+                        <ul class="countdown" data-date="March  15, 2023 21:00:00" id="countdown">
                             <li class="countdown__item">
                                 <h3 class="countdown__number color--theme-color countdown__number-days">99</h3>
                                 <p class="countdown__text">Days</p>
@@ -50,20 +50,17 @@ export const Mint = () => {
                                 <p class="countdown__text">Seco</p>
                             </li>
                         </ul>
-                        <div class="input-group mb-5">
-                            <input type="text" class="form-control" placeholder="Enter You Solana Address to get whitelisted."
-                                aria-label="Email Newsletter" aria-describedby="email-newsletter"/>
-                                <button class="input-group-text" disabled id="email-newsletter">
-                                    <i class="fa-solid fa-paper-plane"></i>
-                                </button>
-                </div>
+                        <div class="input-group">
 
+                            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWqiGkX-C4lqDqr5m24oTJMhxVt_gDw-RLUfxV1jHUXwPenA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-                        <div class="header-btn ">
+                        </div>
+                       
+
+                        <div class="header-btn padding-bottom">
                                 <h3 class="color--secondary-color">Don''t have a Wallet? No worries. </h3>
-                            <a class="default-btn" >
-                                <ConnectButton >Download Now<i class="fa-solid fa-wallet"></i>
-                                </ConnectButton>
+                            <a class="default-bt1" >
+                                <WalletMultiButton />
                             </a>
                             </div>
 

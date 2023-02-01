@@ -38,6 +38,7 @@ const App: FC = () => {
             <Router>
 
                 <Navbar />
+                
                 <Routes>
 
                     <Route path="/" element={<Home />} />

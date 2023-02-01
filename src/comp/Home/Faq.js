@@ -13,8 +13,8 @@ export const Faq = () => {
                         <h2>Frequently Asked Questions</h2>
                     </div>
                     <div class="faq__wrapper">
-                        <div class="row g-4">
-                            <div class="col-lg-6">
+                        
+                            <div class="col-lg-12">
                                 <div class="accordion" id="faqAccordion1">
                                     <div class="row g-4">
                                         <div class="col-12">
@@ -29,69 +29,12 @@ export const Faq = () => {
                                                 <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1"
                                                     data-bs-parent="#faqAccordion1">
                                                     <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
+                                                         1222 Sushies on the #solana blockchain giving his members the access to exclusive content of japanese culture. 🍣
                                                      
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-12">
-                                            <div class="accordion__item" data-aos="fade-up" data-aos-duration="1100">
-                                                <div class="accordion__header" id="faq2">
-                                                    <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#faqBody2" aria-expanded="false"
-                                                        aria-controls="faqBody2">
-                                                        Whe we should choose NFTPort? <span class="plus-icon"></span>
-                                                    </button>
-                                                </div>
-                                                <div id="faqBody2" class="accordion-collapse collapse "
-                                                    aria-labelledby="faq2" data-bs-parent="#faqAccordion1">
-                                                    <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
-                                                       
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="accordion__item" data-aos="fade-up" data-aos-duration="1200">
-                                                <div class="accordion__header" id="faq3">
-                                                    <button class="accordion__button collapsed" type="button"
-                                                        data-bs-toggle="collapse" data-bs-target="#faqBody3"
-                                                        aria-expanded="false" aria-controls="faqBody3">
-                                                        how secure is this token<span class="plus-icon"></span>
-                                                    </button>
-                                                </div>
-                                                <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3"
-                                                    data-bs-parent="#faqAccordion1">
-                                                    <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="accordion" id="faqAccordion2">
-                                    <div class="row g-4">
                                         <div class="col-12">
                                             <div class="accordion__item" data-aos="fade-up" data-aos-duration="1000">
                                                 <div class="accordion__header" id="faq1-two">
@@ -105,13 +48,8 @@ export const Faq = () => {
                                                 <div id="faqBody1-two" class="accordion-collapse collapse"
                                                     aria-labelledby="faq1-two" data-bs-parent="#faqAccordion2">
                                                     <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
-                                                      
+                                                        👉 March 2023.Pre-sale & Public Date will be announced later in discord server.
+
                                                     </div>
                                                 </div>
                                             </div>
@@ -129,37 +67,8 @@ export const Faq = () => {
                                                 <div id="faqBody2-two" class="accordion-collapse collapse"
                                                     aria-labelledby="faq2-two" data-bs-parent="#faqAccordion2">
                                                     <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
-                                                       
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-12">
-                                            <div class="accordion__item" data-aos="fade-up" data-aos-duration="1200">
-                                                <div class="accordion__header" id="faq3-two">
-                                                    <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse"
-                                                        data-bs-target="#faqBody3-two" aria-expanded="false"
-                                                        aria-controls="faqBody3-two">
+                                                        TBA~~~Based on DAO Voting
 
-                                                        How does the raffle work?<span class="plus-icon"></span>
-                                                    </button>
-                                                </div>
-                                                <div id="faqBody3-two" class="accordion-collapse collapse "
-                                                    aria-labelledby="faq3-two" data-bs-parent="#faqAccordion2">
-                                                    <div class="accordion__body">
-                                                        We want provide our community with the best quality art from real artist
-                                                        for afordable price
-                                                        That is why we chose mint price of 0.22 ETH (+ gas fee). If you are
-                                                        planning to hold your Bulls
-                                                        you will bee rewarded with FEE Apes Land approximatey 6-8 weeks after
-                                                        the official launch
-                                                      
                                                     </div>
                                                 </div>
                                             </div>
@@ -167,7 +76,8 @@ export const Faq = () => {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                           
+                       
                     </div>
                 </div>
             </section>

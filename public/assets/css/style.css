@@ -926,7 +926,7 @@ ol {
 }
 
 .coming-soon__content > p, .contact .form textarea {
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .banner__content p {
@@ -1507,59 +1507,59 @@ ol {
   animation: zoom 3s linear infinite alternate;
 }
 .banner__thumb-slider-2 {
-  height: 350px;
+  height: 300px;
 }
 @media (min-width: 576px) {
   .banner__thumb-slider-2 {
-    height: 520px;
+    height: 300px;
   }
 }
 @media (min-width: 768px) {
   .banner__thumb-slider-2 {
-    height: 630px;
+    height: 300px;
   }
 }
 @media (min-width: 992px) {
   .banner__thumb-slider-2 {
-    height: 450px;
-  }
-}
-@media (min-width: 1200px) {
-  .banner__thumb-slider-2 {
-    height: 540px;
-  }
-}
-@media (min-width: 1400px) {
-  .banner__thumb-slider-2 {
-    height: 620px;
-  }
-}
-.banner__thumb-slider-1, .banner__thumb-slider-3 {
-  height: 230px;
-}
-@media (min-width: 576px) {
-  .banner__thumb-slider-1, .banner__thumb-slider-3 {
-    height: 345px;
-  }
-}
-@media (min-width: 768px) {
-  .banner__thumb-slider-1, .banner__thumb-slider-3 {
-    height: 420px;
-  }
-}
-@media (min-width: 992px) {
-  .banner__thumb-slider-1, .banner__thumb-slider-3 {
     height: 300px;
   }
 }
 @media (min-width: 1200px) {
+  .banner__thumb-slider-2 {
+    height: 300px;
+  }
+}
+@media (min-width: 1400px) {
+  .banner__thumb-slider-2 {
+    height: 320px;
+  }
+}
+.banner__thumb-slider-1, .banner__thumb-slider-3 {
+  height: 220px;
+}
+@media (min-width: 576px) {
   .banner__thumb-slider-1, .banner__thumb-slider-3 {
-    height: 350px;
+    height: 220px;
+  }
+}
+@media (min-width: 768px) {
+  .banner__thumb-slider-1, .banner__thumb-slider-3 {
+    height: 220px;
+  }
+}
+@media (min-width: 992px) {
+  .banner__thumb-slider-1, .banner__thumb-slider-3 {
+    height: 220px;
+  }
+}
+@media (min-width: 1200px) {
+  .banner__thumb-slider-1, .banner__thumb-slider-3 {
+    height: 220px;
   }
 }
 @media (min-width: 1400px) {
   .banner__thumb-slider-1, .banner__thumb-slider-3 {
-    height: 410px;
+    height: 220px;
   }
 }
 .banner__video {
@@ -1748,8 +1748,11 @@ ol {
   text-transform: uppercase;
   font-weight: 400;
 }
+.default-bt1 {
+    display: inline-block
+}
 @media (min-width: 768px) {
-  .default-btn {
+    .default-btn {
     padding: 0 2.25rem;
     line-height: 56px;
   }

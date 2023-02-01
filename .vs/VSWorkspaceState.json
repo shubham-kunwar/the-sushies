@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
     "\\src\\comp",
-    "\\src\\comp\\HeroSection",
-    "\\src\\comp\\Navbar",
-    "\\src\\comp\\NftShowcase",
-    "\\src\\comp\\roadmap"
+    "\\src\\comp\\Home"
   ],
-  "SelectedNode": "\\src\\comp\\HeroSection\\HeroSection.css",
+  "SelectedNode": "\\public\\index.html",
   "PreviewInSolutionExplorer": false
 }
