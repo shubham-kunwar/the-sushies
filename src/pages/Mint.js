@@ -1,37 +1,25 @@
-import React from "react"
-import { Link } from "react-router-dom"
+import React, { useState } from 'react';
+import axios from 'axios';
 
 import { WalletMultiButton, } from "@solana/wallet-adapter-react-ui";
 import styled from 'styled-components';
 
 
-const ConnectButton = styled(WalletMultiButton)`
-   font-size: 0.875rem;
-    text-decoration: none;
-    font-family: "Bakbak One", cursive;
-    color: #000000;
-    padding: 0 0rem;
-    line-height: 70px;
-    transform-origin: right;
-    transition: all 0.3s ease;
-    background: #00ffa3;
-    font-weight: bold;
-    text-transform: uppercase;
-    font-weight: 400;
-height:56px;
-}`
+
 
 export const Mint = () => {
+
+
+
+
     return (
         <>
 
-
-
-            <section class="coming-soon  ">
+            <section class="coming-soon  margin-bottom">
                 <div class="coming-soon__inner">  
                     <div class="coming-soon__content">
                         <h2 class="color--gradient-y">Mint Will be Live soon ! </h2>
-                        <p>We are working hard to bring you new experience of metaverse and NFT utilities</p>
+                        <p style={{ marginBottom: "50px" }}>We are working hard to bring you new experience of metaverse and NFT utilities</p>
                         <ul class="countdown" data-date="March  15, 2023 21:00:00" id="countdown">
                             <li class="countdown__item">
                                 <h3 class="countdown__number color--theme-color countdown__number-days">99</h3>
@@ -50,12 +38,26 @@ export const Mint = () => {
                                 <p class="countdown__text">Seco</p>
                             </li>
                         </ul>
-                        <div class="input-group">
+                        <div class="input-group1 mb-5">
 
-                            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfWqiGkX-C4lqDqr5m24oTJMhxVt_gDw-RLUfxV1jHUXwPenA/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                            <form style={{ display: "flex" }} action="https://public.herotofu.com/v1/6de03c70-a232-11ed-a31e-753411848f80" method="post">
+                                
 
+                                    <input class="form-control" placeholder="Submit Your Address to get whitelisted now." name="Name" id="name" type="text" required />
+                                    <button class="input-group-text" id="email-newsletter" type="submit"> <i class="fa-solid fa-paper-plane"></i></button>
+
+                               
+
+                               
+                            </form>
+
+                           
+                                
                         </div>
+                      
                        
+
+
 
                         <div class="header-btn padding-bottom">
                                 <h3 class="color--secondary-color">Don''t have a Wallet? No worries. </h3>

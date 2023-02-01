@@ -48,7 +48,7 @@ export const Faq = () => {
                                                 <div id="faqBody1-two" class="accordion-collapse collapse"
                                                     aria-labelledby="faq1-two" data-bs-parent="#faqAccordion2">
                                                     <div class="accordion__body">
-                                                        👉 March 2023.Pre-sale & Public Date will be announced later in discord server.
+                                                        👉 March 2023. Pre-sale & Public Date will be announced later in discord server.
 
                                                     </div>
                                                 </div>

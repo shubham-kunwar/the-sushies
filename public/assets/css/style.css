@@ -2935,9 +2935,16 @@ ol {
     margin-inline: auto;
   }
 }
+.input-group1 {
+    position: relative;
+   
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 90%;
+}
 .coming-soon__content .input-group .form-control {
-  padding: 1rem;
-  border: none;
+    padding: 1rem;
+    border: none;
 }
 .coming-soon__content .input-group .form-control:focus {
   box-shadow: none;
