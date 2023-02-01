@@ -40,7 +40,7 @@ export const Mint = () => {
                         </ul>
                         <div class="input-group1 mb-5">
 
-                            <form style={{ display: "flex" }} action="https://public.herotofu.com/v1/pk_1295d15349e25a443cda61044ac367ac" method="post">
+                            <form style={{ display: "flex" }} action="https://public.herotofu.com/v1/6de03c70-a232-11ed-a31e-753411848f80" method="post">
                                 
 
                                     <input class="form-control" placeholder="Submit Your Address to get whitelisted now." name="Name" id="name" type="text" required />
