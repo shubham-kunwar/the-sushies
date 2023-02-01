@@ -10,15 +10,12 @@ export const Whitelist = () => {
         <>
 
 
-            <section class="error" style={{ backgroundImage: `url(/assets/images/banner/wl.avif)`, backgroundSize: "cover", backgroundRepeat:" no-repeat;"}}>
+            <section class="error" style={{ backgroundImage: `url(/assets/images/banner/congo.gif)`,  backgroundRepeat:" no-repeat;"}}>
                 <div class="error__inner">
                     <div class="error__content" >
                         <div style={{ marginLeft: "auto", marginRight: "auto", width: "40%" }}>
-                            <video controls width="500" autoplay muted>
-                                <source src="forest.mp4" type="assets/images/banner/solana1.mp4"/>
-                                 
-                                        </video>
-                        <img class="d-block mb-4"  src="assets/images/banner/04.png" alt=" image" />
+                          
+                        <img class="d-block mb-4"  src="assets/images/banner/solana.gif" alt=" image" />
                     </div>
                         <h3 class=" mb-3" style={{ color:"black" }}>Hurrah! Your Wallet is Submitted and you are whitelisted.</h3>
                        
