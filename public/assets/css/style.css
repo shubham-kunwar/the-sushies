@@ -2841,11 +2841,7 @@ ol {
   background-color: #000000;
 }
 
-@media (min-width: 992px) {
-  .error {
-    height: 100vh;
-  }
-}
+
 @media (min-width: 992px) {
   .error__inner {
     flex-direction: row-reverse;
