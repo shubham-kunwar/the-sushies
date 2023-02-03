@@ -2929,11 +2929,11 @@ ol {
   display: grid;
   place-content: center;
   padding-inline: 30px;
-  padding-block: 50px;
+  padding-block: 150px;
 }
 @media (min-width: 768px) {
   .coming-soon__content {
-    padding-block: 70px;
+    padding-block: 150px;
   }
 }
 .coming-soon__content > p {

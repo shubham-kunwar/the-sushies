@@ -17,9 +17,9 @@ export const Whitelist = () => {
                         
 
                         <div class="text-center " style={{ backgroundColor: "rgb(7, 19, 36)", padding: "60px", borderRadius:"50px" }}>
-                            <h3 class=" mb-3" >Hurrah! Your Wallet is Submitted and you are whitelisted.</h3>
+                            <h3 class=" mb-3" >🎉Hurrah🎉 Your Wallet is Submitted and you are whitelisted.</h3>
 
-                            <h3 style={{ marginBottom: "40px" }} >Join Discord to keep Updated</h3>
+                            <h4 style={{ marginBottom: "40px" }} >Join Discord to keep Updated</h4>
                             <a href="/" class="default-btn">Go Back To Home</a>
                             
                             <a href="https://discord.gg/vg7RYvGUSp" target="_blank" style={{marginLeft:"5px"} } class=" default-btn default-btn--secondary"><span><i class="fab fa-discord"></i> Join
