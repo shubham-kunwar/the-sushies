@@ -130,7 +130,7 @@ export const Hero = () => {
                                     <div class="counter__item-content">
                                         <h2>
                                             <span class="purecounter" data-purecounter-start="1" data-purecounter-end="110">
-                                               13</span></h2>
+                                               34</span></h2>
                                         <p>WL Users</p>
                                     </div>
                                 </div>
