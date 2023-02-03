@@ -30,6 +30,7 @@ import { PageNotFound } from "./pages/PageNotFound"
 import Test from "./pages/Test"
 
 
+
 require('./App.css');
 
 require('@solana/wallet-adapter-react-ui/styles.css');
@@ -48,6 +49,7 @@ const App: FC = () => {
                     <Route path="/career" element={<Career />} />
                     <Route path="/whitelist" element={<Whitelist />} />
                     <Route path="/test" element={<Test />} />
+                  
                     <Route path="*" element={<PageNotFound />} />
 
                 </Routes>

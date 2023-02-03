@@ -2848,9 +2848,14 @@ ol {
     height: 100%;
   }
 }
+
+.default-btn:disabled{
+    opacity:0.3;
+    background-color:red
+}
 .error__thumb a {
-  display: block;
-  height: inherit;
+    display: block;
+    height: inherit;
 }
 @media (min-width: 992px) {
   .error__thumb {

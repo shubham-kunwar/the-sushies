@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\css",
+    "\\public\\assets\\images",
+    "\\public\\assets\\images\\banner",
     "\\src",
     "\\src\\comp",
-    "\\src\\comp\\Home"
+    "\\src\\comp\\Home",
+    "\\src\\pages"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\src\\pages\\Mint.js",
   "PreviewInSolutionExplorer": false
 }
