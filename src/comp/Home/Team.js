@@ -30,8 +30,8 @@ export const Team = () => {
                                       
                                     </p>
                                     <ul class="social">
-                                        <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
+                                                <li>
+                                                    <a href="https://twitter.com/KrasherThe" target="_blank" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
                                        
                                        
@@ -79,12 +79,12 @@ export const Team = () => {
                                     </p>
                                     <ul class="social">
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
+                                                    <a href="#" target="_blank" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
                                        
                                       
                                         <li>
-                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
+                                                    <a href="#" target="_blank" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -132,11 +132,11 @@ export const Team = () => {
                                     </p>
                                     <ul class="social">
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
+                                                    <a href="" target="https://twitter.com/duke_eth" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
                                       
                                         <li>
-                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
+                                                    <a href="https://www.instagram.com/kunwar.eth/" target="_blank" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
@@ -179,12 +179,12 @@ export const Team = () => {
                                     </p>
                                     <ul class="social">
                                         <li>
-                                            <a href="#" class="social__link"><i class="fa-brands fa-twitter"></i></a>
+                                                    <a href="#" target="_blank" class="social__link"><i class="fa-brands fa-twitter"></i></a>
                                         </li>
                                         
                                       
                                         <li>
-                                                    <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
+                                                    <a href="#" target="_blank" class="social__link"><i class="fab fa-instagram"></i></a>
                                         </li>
                                     </ul>
                                 </div>
