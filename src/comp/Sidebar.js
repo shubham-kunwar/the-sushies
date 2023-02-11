@@ -58,7 +58,7 @@ export default function Sidebar({ sidebarOpen, toggleSidebar }) {
                         activeClass="active"
                         className="whiteColor"
                         style={{ padding: "10px 15px" }}
-                        href="https://the-sushies.gitbook.io/thesushies/" target="_blank"
+                        href="https://thesushieswhitepaper.gitbook.io/thesushieswhitepaper/" target="_blank"
                         spy={true}
                         smooth={true}
                         offset={-60}
