@@ -51,7 +51,7 @@ export const Navbar = () => {
 
                                 </ul>
                                 <div class="header-btn">
-                                    <a href="https://discord.gg/fas3m4VFA2" target="_blank" class="default-btn default-btn--secondary">
+                                    <a href="https://discord.gg/TKrPtVwhFJ" target="_blank" class="default-btn default-btn--secondary">
                                         <span>Join <i class="fa-brands fa-discord"></i></span>
                                     </a>
                                   
