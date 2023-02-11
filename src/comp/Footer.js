@@ -35,7 +35,7 @@ export const Footer = () => {
                                     <a href="https://twitter.com/SushiesThe" target="_blank" class="social__link"><i class="fab fa-twitter"></i></a>
                                 </li>
                                 <li class="social__item">
-                                    <a href="https://discord.gg/fas3m4VFA2" target="_blank" class="social__link"><i class="fab fa-discord"></i></a>
+                                    <a href="https://discord.gg/TKrPtVwhFJ" target="_blank" class="social__link"><i class="fab fa-discord"></i></a>
                                 </li>
                                
 
