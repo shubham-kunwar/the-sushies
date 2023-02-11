@@ -99,7 +99,7 @@ export default function Sidebar({ sidebarOpen, toggleSidebar }) {
             </UlStyle>
             <div className="flexSpaceCenter">
               
-                    <a href="https://discord.gg/fas3m4VFA2" target="_blank" class="default-btn default-btn--secondary">
+                    <a href="https://discord.gg/TKrPtVwhFJ" target="_blank" class="default-btn default-btn--secondary">
                         <span>Join <i class="fa-brands fa-discord"></i></span>
                     </a>
                
