@@ -36,7 +36,7 @@ export const Navbar = () => {
                                     </li>
 
                                     <li>
-                                        <a href="https://the-sushies.gitbook.io/thesushies/" target="_blank">WhitePaper</a>
+                                        <a href="https://thesushieswhitepaper.gitbook.io/thesushieswhitepaper/" target="_blank">WhitePaper</a>
                                     </li>
 
                                     <li>
