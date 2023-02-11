@@ -22,7 +22,7 @@ export const Whitelist = () => {
                             <h4 style={{ marginBottom: "40px" }} >Join Discord to keep Updated</h4>
                             <a href="/" class="default-btn">Go Back To Home</a>
                             
-                            <a href="https://discord.gg/vg7RYvGUSp" target="_blank" style={{marginLeft:"5px"} } class=" default-btn default-btn--secondary"><span><i class="fab fa-discord"></i> Join
+                            <a href="https://discord.gg/TKrPtVwhFJ" target="_blank" style={{marginLeft:"5px"} } class=" default-btn default-btn--secondary"><span><i class="fab fa-discord"></i> Join
                                 Discord</span></a>
                         </div>
                     </div>
