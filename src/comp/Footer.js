@@ -13,7 +13,7 @@ export const Footer = () => {
                             <h2>Join Our Cumminity and get early access</h2>
                         </div>
                         <div class="btn-group justify-content-center">
-                            <a href="https://discord.gg/vg7RYvGUSp" target="_blank" class="default-btn default-btn--secondary"><span><i class="fab fa-discord"></i> Join
+                            <a href="https://discord.gg/TKrPtVwhFJ" target="_blank" class="default-btn default-btn--secondary"><span><i class="fab fa-discord"></i> Join
                                 Discord</span></a>
                             <a href="https://twitter.com/SushiesThe" target="_blank" class="default-btn"> <span><i class="fab fa-twitter"></i> Join Twitter</span> </a>
                         </div>
